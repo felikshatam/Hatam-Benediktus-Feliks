@@ -1,0 +1,57 @@
+@article{hieronimussk,
+  title={SK Ketua Anggota panitia penerimaan mahasiswa baru tahun ajaran 2016/2017},
+  author={Hieronimus, Canggung Darong},
+  publisher={-}
+}
+
+@misc{hatam2018persekutuan,
+  title={PERSEKUTUAN YANG MEMBEBASKAN DALAM PERSPEKTIF BIBLIS I KOR 12: 12-31 DAN KEBUDAYAAN MANGGARAI.},
+  author={Hatam, Benediktus Feliks},
+  journal={Jurnal Pendidikan dan Kebudayaan Missio},
+  volume={10},
+  number={1},
+  pages={95--106},
+  year={2018},
+  publisher={Jurnal Pendidikan dan Kebudayaan Missio (JPKM) Universitas Katolik Indonesia~…}
+}
+
+@misc{hatam2022moderasi,
+  title={Moderasi Beragama, Toleransi Partisipatif},
+  author={Hatam, Benediktus Feliks},
+  journal={https://voxntt.com/2022/04/21/moderasi-beragama-toleransi-partisipatif/87244/},
+  number={https://voxntt.com/2022/04/21/moderasi-b},
+  year={2022}
+}
+
+@misc{hatam2018pewarta,
+  title={Pewarta (an) Menunggangi Kepentingan Kristus},
+  author={Hatam, Feliks},
+  journal={http://www.floressmart.com/2018/03/23/pewarta-an-menunggangi-kepentingan-kristus/},
+  year={2018}
+}
+
+@misc{hatam2021covid,
+  title={COVID-19: ANTARA BELAJAR “ONLINE” DAN “OH-LAIN”},
+  author={Hatam, Feliks},
+  journal={https://www.cakrawalantt.com/2021/01/covid-19-antara-belajar-online-dan-oh.html}
+}
+
+@misc{2022puasa,
+  title={Puasa, Konteks, dan Aksi},
+  journal={https://mediaindonesia.com/opini/478607/puasa-konteks-dan-aksi},
+  year={2022}
+}
+
+@misc{2019dprd,
+  title={DPRD, Bertanggung Jawab Terhadap Suara Rakyat},
+  journal={https://www.auroraindo.co.id/2019/10/dprd-bertanggung-jawab-terhadap-suara.html}
+}
+
+@article{hatam2023strategi,
+  title={STRATEGI IMPLEMENTASI MANAJEMEN SUMBER DAYA MANUSIA DI PERGURUAN TINGGI},
+  author={Hatam, Benediktus Feliks},
+  journal={Humanities and Applied Education},
+  volume={1},
+  number={2023},
+  year={2023}
+}
